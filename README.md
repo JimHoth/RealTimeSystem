@@ -2,7 +2,7 @@
 Lab for Real Time System
 # Members:
 
-Trần Minh Hoàng - 17401 - @JimHoth (Leader)
+Trần Minh Hoàng - 17401 - @JimHoth
 
 Huỳnh Nguyễn Chí Hiếu - 17523 - @CheeseHu
 
