@@ -1,4 +1,4 @@
-print("Hello LAB2")
+print("Hello LAB3")
 
 import time
 from task1 import *
@@ -11,7 +11,7 @@ scheduler.SCH_Init()
 task1 = Task1()
 task2 = Task2() 
 
-scheduler.SCH_Add_Task(task1.Task1_Run, 1000, 2000)
+scheduler.SCH_Add_Task(task1.Task1_Run, 0, 5000)
 scheduler.SCH_Add_Task(task2.Task2_Run, 2000, 4000)
 
 

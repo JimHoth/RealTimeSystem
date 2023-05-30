@@ -47,5 +47,5 @@ while True:
     if keyboard_input == 27:
         break
 
-camera.release()
-cv2.destroyAllWindows()
+#camera.release()
+#cv2.destroyAllWindows()
